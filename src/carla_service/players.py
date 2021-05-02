@@ -1,0 +1,2 @@
+class CarlaPlayer:
+    pass

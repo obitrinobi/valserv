@@ -1,0 +1,6 @@
+pytest
+testfixtures
+mock
+flask
+Flask_restful
+jsonpickle
